@@ -81,5 +81,6 @@ learned from the YouTube tutorial
 [Labview Interface for Arduino](https://youtu.be/x4yA15ehsI4)
 by Pardeep LabVIEW.
 
-## Author
+## Authors
 Zain Rizwan - Electrical Engineer
+University group project, with Bilawal, Shaheer & Jabbar
