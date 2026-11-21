@@ -82,6 +82,5 @@ learned from the YouTube tutorial
 by Pardeep LabVIEW.
 
 ## Authors
-Zain Rizwan - Electrical Engineer
-
-University group project, with Bilawal, Shaheer & Jabbar
+Zain Rizwan - Electrical Engineer<br>
+University group project (2023), with Bilawal, Shaheer & Jabbar
