@@ -64,7 +64,7 @@ LM35 before using LabVIEW:
 temperature (°C) = (ADC / 1024 x 5000) / 10
 
 ## Screenshots
-![Front panel](images/front-panel.png)
+![Front panel](<img width="1366" height="727" alt="Project Working" src="https://github.com/user-attachments/assets/70deb40d-423c-44ac-ae38-9c6d2f658dbf" />)
 ![Block diagram](images/block-diagram.png)
 ![Hardware setup](images/setup.jpg)
 
