@@ -74,5 +74,12 @@ temperature (°C) = (ADC / 1024 x 5000) / 10
 - `arduino/` - sensor test sketch
 - `images/` - screenshots and photos
 
+  
+## Acknowledgements
+The Arduino-LabVIEW interfacing (LIFA setup and firmware upload) was
+learned from the YouTube tutorial
+[Labview Interface for Arduino](https://youtu.be/x4yA15ehsI4)
+by Pardeep LabVIEW.
+
 ## Author
-Zain Rizwan - Electrical Engineer | Embedded & PCB Design
+Zain Rizwan - Electrical Engineer
