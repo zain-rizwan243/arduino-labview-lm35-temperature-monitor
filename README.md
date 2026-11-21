@@ -65,8 +65,9 @@ temperature (°C) = (ADC / 1024 x 5000) / 10
 
 ## Screenshots
 <img width="1366" height="727" alt="Project Working" src="https://github.com/user-attachments/assets/70deb40d-423c-44ac-ae38-9c6d2f658dbf" />
-![Block diagram](images/block-diagram.png)
-![Hardware setup](images/setup.jpg)
+<img width="780" height="301" alt="image" src="https://github.com/user-attachments/assets/e00d699b-926b-48eb-9a2b-4cc9e6cb60dc" />
+<img width="3884" height="2160" alt="I M_Lab_Project" src="https://github.com/user-attachments/assets/d2709708-da9a-457e-8c62-449b3d1e81fc" />
+
 
 ## Repository Contents
 - `labview/` - LabVIEW VI files
