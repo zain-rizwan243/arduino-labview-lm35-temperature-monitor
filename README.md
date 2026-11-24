@@ -45,7 +45,7 @@ also work but were not tested. LIFA is no longer supported by NI, so
 newer versions of LabVIEW or the Arduino IDE may cause problems.
 
 ## How It Works
-1. The LIFA base firmware (LVIFA_Base) is uploaded to the Arduino using
+1. The LIFA base firmware (LIFA_Base) is uploaded to the Arduino using
    the Arduino IDE.
 2. LabVIEW reads the LM35 output through the LIFA analog read VI.
 3. The voltage is multiplied by 100 to get the temperature in °C
