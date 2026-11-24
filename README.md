@@ -70,9 +70,9 @@ temperature (°C) = (ADC / 1024 x 5000) / 10
 
 
 ## Repository Contents
-- `labview/` - LabVIEW VI files
-- `arduino/` - sensor test sketch
-- `images/` - screenshots and photos
+- `LM35 Interface with Arduino.vi` - LabVIEW VI file
+- `Arduino Test Code.ino` - sensor test sketch
+- `LIFA_Base.ino` -LIFA code for Arduino
 
   
 ## Acknowledgements
